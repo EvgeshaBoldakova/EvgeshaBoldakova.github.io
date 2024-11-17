@@ -34,7 +34,7 @@ body {
     line-height: 1.5;
   }
   section {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
   }
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 .photo-section img {
-  max-width: 300px;
+  max-width: 350px;
   height: auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   border-radius: 16px;
