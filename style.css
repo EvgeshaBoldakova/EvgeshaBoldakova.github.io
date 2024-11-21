@@ -12,7 +12,7 @@ body {
 
 .resume-container {
   display: flex;
-  max-width: 1100px;
+  max-width: 100%;
   justify-content: space-between;
   margin: 0 auto;
   background-color: #fff;
@@ -70,4 +70,8 @@ ul {
   .resume-container {
     flex-direction: column;    
   }  
+  
+  .photo-section img {
+    max-width: 100%;
+  }
 }
