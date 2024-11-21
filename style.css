@@ -70,9 +70,11 @@ ul {
   .resume-container {
     flex-direction: column;
     padding: 10px;
-  }  
-  
+  }
+
   .photo-section img {
     max-width: 100%;
+    align-items: center;
+    margin: 0;
   }
 }
