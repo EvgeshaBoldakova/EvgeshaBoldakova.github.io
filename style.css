@@ -65,3 +65,18 @@ ul {
   margin: 17px;
   padding: 0;
 }
+
+@media (max-width: 768px) {
+  .resume-container {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .photo-contact-section {
+    margin-top: 20px;
+  }
+
+  .photo-section img {
+    max-width: 100%;
+  }
+}
